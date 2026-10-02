@@ -1,4 +1,5 @@
 ## الصفحة الثانية: البيضة تتشقق (Page 02)
+[📥 اضغط هنا لتحميل ملف الكتاب بصيغة PDF](kdp_output/Tiko_and_the_Mysterious_Egg_Interior.pdf)
 
 ```python
 import os
